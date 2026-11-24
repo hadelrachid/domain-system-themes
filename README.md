@@ -21,4 +21,4 @@ php tools/sync-theme.php rachidd_store
 ```
 
 ## 📜 Licença
-Propriedade de Rachid Daher. Todos os direitos reservados.
+Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
