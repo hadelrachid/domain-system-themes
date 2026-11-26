@@ -1,15 +1,17 @@
 {
-    "updated_at": "2026-11-25T01:10:00+01:00",
+    "updated_at": "2026-11-26T18:27:00-03:00",
     "repository": "https://github.com/hadelrachid/domain-system-themes",
     "themes": {
         "rachidd_store": {
             "name": "rachidd_store",
             "title": "RachidD Store - Marketplace Dropshipping Global",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "author": "Rachid",
             "description": "Tema Oficial RachidD.com estilo AliExpress / Marketplace das Mil e Uma Noites (Lâmpada de Aladim, Desejos do Dia, Busca Global e vitrine de alta conversão).",
             "repository": "https://github.com/hadelrachid/rachidd_store",
-            "download_url": "https://github.com/hadelrachid/rachidd_store/releases/latest/download/rachidd_store.zip"
+            "download_url": "https://github.com/hadelrachid/rachidd_store/releases/latest/download/rachidd_store.zip",
+            "sha256": "2e61bd14dbc68784a41b45369f5436f442b1a04cf60a2a83c95160f3fc0d9061",
+            "size_bytes": 2103657
         }
     }
 }
